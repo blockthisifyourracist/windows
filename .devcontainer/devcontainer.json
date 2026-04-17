@@ -1,5 +1,5 @@
 {
-  "name": "Windows 10 LTSC",
+  "name": "Windows XP Professional",
   "service": "windows",
   "containerEnv": {
     "VERSION": "xp"
